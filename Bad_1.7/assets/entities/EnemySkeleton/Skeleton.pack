@@ -1,0 +1,292 @@
+
+SkeletonSpriteSheet.png
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+idle
+  rotate: false
+  xy: 0, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 42, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 84, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 126, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 168, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 210, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 252, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 294, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 336, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 378, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 420, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 462, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 504, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 546, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 588, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 630, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 672, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 714, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 756, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 798, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 840, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 882, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 924, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 966, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 1008, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 1050, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+attack
+  rotate: false
+  xy: 1092, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+attack
+  rotate: false
+  xy: 1134, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+attack
+  rotate: false
+  xy: 1176, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+attack
+  rotate: false
+  xy: 1218, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+attack
+  rotate: false
+  xy: 1260, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+attack
+  rotate: false
+  xy: 1302, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+attack
+  rotate: false
+  xy: 1344, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+attack
+  rotate: false
+  xy: 1386, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+attack
+  rotate: false
+  xy: 1428, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+attack
+  rotate: false
+  xy: 1470, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+attack
+  rotate: false
+  xy: 1512, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+attack
+  rotate: false
+  xy: 1554, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+attack
+  rotate: false
+  xy: 1596, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+attack
+  rotate: false
+  xy: 1638, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+attack
+  rotate: false
+  xy: 1680, 0
+  size: 42, 42
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
